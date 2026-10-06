@@ -1,0 +1,8 @@
+{
+  "name": "Core Fitness Nagpur",
+  "description": "Core Fitness Nagpur gym website at Sakkardara Chowk featuring strength training, cardio fitness, functional training, and personal coaching.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
